@@ -1,7 +1,6 @@
 - Hi, I’m @RadArcadeKid! A Developer, Programmer, CS Graduate, and software developer! 
-- I’m interested in front-end development, 
-- I’m currently learning ReactJS and ES6! 
-- I’m looking to collaborate on front-end development open-source projects! 
+- I’m interested in software development - front end, back end, full stack, all of the above! 
+- I’m looking to collaborate on development open-source projects! 
 
 <!---
 RadArcadeKid/RadArcadeKid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
